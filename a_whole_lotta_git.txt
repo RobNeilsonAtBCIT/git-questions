@@ -14,4 +14,9 @@ Question: Why do we need a staging area?
 Answer: Because we can pick and choose what we want committed. this will allow us to be more detailed with our commits. this is especially useful when dealing with large projects.
 
 Question: Why do we need to create a branch when uploading our work?
+Answer: It makes it easier to keep track of what has been updated, especially when multiple people work on the same project.
+
+Question: Is it possible to make a custom search domain for repositories?
+
+Question: Why is the Github logo a cat?
 
