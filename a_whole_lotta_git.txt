@@ -13,4 +13,9 @@ Answer: this is where we organize what we want committed into the repository.
 Question: Why do we need a staging area?
 Answer: Because we can pick and choose what we want committed. this will allow us to be more detailed with our commits. this is especially useful when dealing with large projects.
 
+Question: Why do we need to use branches when working with git regularly?
+
+
+Question: can we use WSL to work on git on a windows computer?
+
           
