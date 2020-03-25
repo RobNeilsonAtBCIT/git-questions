@@ -8,8 +8,9 @@ Answer: You can do "git revert [hash]" to undo to a previous commit. This is the
 Question: How do I check to see if anyone has made any updates to the origin before pushing?
 
 Question: What is the staging area?
+Answer: this is where we organize what we want committed into the repository.
 
 Question: Why do we need a staging area?
-
+Answer: Because we can pick and choose what we want committed. this will allow us to be more detailed with our commits. this is especially useful when dealing with large projects.
 
           
