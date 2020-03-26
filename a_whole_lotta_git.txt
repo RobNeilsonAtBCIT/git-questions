@@ -19,4 +19,9 @@ Answer: It makes it easier to keep track of what has been updated, especially wh
 Question: Is it possible to make a custom search domain for repositories?
 
 Question: Why is the Github logo a cat?
+Answer: Apparently, a guy named Simon Oxley created the octocat (along with the Twitter 'bird') for iStockphoto which Github liked and purchased from the site.
+https://en.wikipedia.org/wiki/Simon_Oxley
 
+Question: What is the difference between Git and Github?
+
+Question: How do you configure git so you don't have to enter your github password everytime you merge into the remote repository?
