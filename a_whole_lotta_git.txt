@@ -6,6 +6,7 @@ Question: How can I undo a push and merge into master that I made one night
 Answer: You can do "git revert [hash]" to undo to a previous commit. This is the safest git "undo" button.
 
 Question: How do I check to see if anyone has made any updates to the origin before pushing?
+Answer: You could do 'git pull origin master' to pull any updates that may have been made
 
 Question: What is the staging area?
 Answer: this is where we organize what we want committed into the repository.
@@ -34,3 +35,7 @@ Question: How do you configure git so you don't have to enter your github passwo
 Question: Is there anything that GitHub does that Git cannot do, or vice-versa?
 
 Question: What is the difference between Git and Github?
+
+Question: What does 'git branch --merged' do?
+
+Question: Why do we create branches?
