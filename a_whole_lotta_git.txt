@@ -30,6 +30,8 @@ Question: Is there anything that GitHub does that Git cannot do, or vice-versa?
 
 Question: What is the difference between Git and Github?
 
+Answer: Git is a version control system used to manage and keep track of your source code history whereas GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
 Question: How do you configure git so you don't have to enter your github password everytime you merge into the remote repository?
 
 Question: Is there anything that GitHub does that Git cannot do, or vice-versa?
@@ -39,3 +41,7 @@ Question: What is the difference between Git and Github?
 Question: What does 'git branch --merged' do?
 
 Question: Why do we create branches?
+
+Question: Why was git created?
+
+Question: What system was used before git?
