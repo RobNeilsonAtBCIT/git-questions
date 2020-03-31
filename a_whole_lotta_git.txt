@@ -41,6 +41,8 @@ Answer: Git is an open-source tool devs can install locally, GitHub is an online
 
 Question: What does 'git branch --merged' do?
 
+Answer: Finds the latest common commit between the branches
+
 Question: Why do we create branches?
 
 Question: Why was git created?
@@ -50,3 +52,7 @@ Question: What system was used before git?
 Question: How can you change the name of the master branch?
 
 Question: Can someone else have access to a branch?
+
+Question: How secure is it to use github?
+
+Question: Can I make my branch private or public?
