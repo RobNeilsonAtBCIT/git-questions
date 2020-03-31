@@ -37,6 +37,7 @@ Question: How do you configure git so you don't have to enter your github passwo
 Question: Is there anything that GitHub does that Git cannot do, or vice-versa?
 
 Question: What is the difference between Git and Github?
+Answer: Git is an open-source tool devs can install locally, GitHub is an online service where devs who use Git can connect to and upload or download resources.
 
 Question: What does 'git branch --merged' do?
 
@@ -45,3 +46,7 @@ Question: Why do we create branches?
 Question: Why was git created?
 
 Question: What system was used before git?
+
+Question: How can you change the name of the master branch?
+
+Question: Can someone else have access to a branch?
