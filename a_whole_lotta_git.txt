@@ -52,7 +52,12 @@ Question: What system was used before git?
 Question: How can you change the name of the master branch?
 
 Question: Can someone else have access to a branch?
+Answer: Yes you can give others access
 
 Question: How secure is it to use github?
 
 Question: Can I make my branch private or public?
+
+Question: What is the easiest way to solve merge conflicts?
+
+Questions: How does git merge files?
